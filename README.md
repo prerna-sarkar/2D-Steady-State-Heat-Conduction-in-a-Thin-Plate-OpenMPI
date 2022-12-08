@@ -14,4 +14,5 @@ The program takes the following command line arguments, identified by their comm
 2. the number of iterations (e.g. -I 2000)
 
 Note: the number of processors is given by "-np" (For example if we want to distribute our calculations among 4 nodes with 10 processors per node, the argument will be "-np 40")
+
 The final calculated temperature values after the iterations are outputted to a csv file.
